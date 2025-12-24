@@ -6,11 +6,11 @@
   I build with AI, ship mobile apps, and enjoy turning ideas into useful products.
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=miladvlp&style=for-the-badge&color=7F3FBF" alt="profile views" />
   <img src="https://img.shields.io/github/followers/miladvlp?style=for-the-badge&color=5C2D91&labelColor=2B1A3D" alt="followers badge" />
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-7F3FBF?style=for-the-badge&labelColor=2B1A3D" alt="open to collaboration" />
-</div>
+</div> -->
 
 <div align="center">
   <a href="https://linkedin.com/in/miladvalipor" target="_blank">
